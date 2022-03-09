@@ -5,6 +5,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ini_set('display_errors',3);
 ini_set('display_errors',4);
+ini_set('display_errors',7);
 require 'includes/config.php';
 require 'includes/functions.php';
 
